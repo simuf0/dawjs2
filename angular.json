@@ -34,7 +34,7 @@
       },
       "root": "",
       "sourceRoot": "src",
-      "prefix": "galz",
+      "prefix": "dawjs",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
